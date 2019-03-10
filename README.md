@@ -1,2 +1,3 @@
 # hello-world
-This is my first repository. This is to test the creation of a new repository
+
+I am making changes in the 'readme-edits' branch. This is to test the making of a commit.
